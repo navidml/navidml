@@ -1,129 +1,112 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/navidml/navidml/main/assets/header.svg" width="100%" alt="Navid Bordbar" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+clinical+data+into+decisions.;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Explainable+models%2C+not+black+boxes." alt="" />
-</div>
+# Hi, I'm Navid Bordbar 👋
 
-<div align="center">
-  <a href="mailto:navid.b1515@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/navid-bordbar"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/navidbordbar"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=7aa2f7&labelColor=0d1117" alt="Kaggle" /></a>
-  <img src="https://komarev.com/ghpvc/?username=navidml&style=for-the-badge&color=7aa2f7&labelColor=0d1117&label=VIEWS" alt="" />
-</div>
+### Data Scientist · AI Engineer · Python Developer
 
-<br>
+I build my skills at the intersection of **data, machine learning, deep learning, and intelligent automation**.
 
-## About
-
-```python
-class Navid:
-    role    = "Data Scientist"
-    domain  = "applied machine learning in healthcare"
-    focus   = ["medical imaging", "clinical risk modeling", "explainability"]
-    stack   = ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV", "SQL"]
-    belief  = "a model nobody can interpret is a model nobody will trust"
-```
-
-I build models that touch real decisions: pneumonia detection from chest X-rays, sepsis
-risk scoring, diabetes screening. My work runs end to end, from framing the question and
-cleaning the data through training, evaluation and shipping an interface someone can
-actually use. Class imbalance, honest validation and Grad-CAM style explainability get as
-much attention as the architecture itself.
-
-<br>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Explainable Chest X-Ray Pneumonia Detection](https://github.com/navidml/Explainable-Chest-XRay-Pneumonia-Detection)**
-
-DenseNet121 with transfer learning for pneumonia
-classification, class imbalance handling and
-Grad-CAM heatmaps that show what the network
-actually looked at.
-
-`PyTorch` `Transfer Learning` `Grad-CAM`
-
-</td>
-<td width="50%" valign="top">
-
-**[Sepsis Risk Prediction System](https://github.com/navidml/Sepsis-Risk-Prediction-System)**
-
-A Streamlit application that predicts the golden
-treatment window for sepsis, turning a research
-notebook into something a clinician can open in
-a browser.
-
-`Streamlit` `Time-Series` `Risk Modeling`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Diabetes Risk Analyzer](https://github.com/navidml/Diabetes-Risk-Analyzer)**
-
-Screening model over tabular clinical features,
-with feature importance analysis and threshold
-tuning for the precision-recall trade-off that
-actually matters in screening.
-
-`scikit-learn` `Tabular ML` `EDA`
-
-</td>
-<td width="50%" valign="top">
-
-**[Treatment Response Label Generator](https://github.com/navidml/Treatment-Response-Label-Generator)**
-
-Tooling that derives treatment-response labels
-from raw clinical records, so downstream models
-train on consistent, reproducible ground truth.
-
-`Python` `Data Engineering` `Labeling`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,mysql,postgres,git,github,linux&theme=dark&perline=10" alt="" />
-
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/SciPy-0d1117?style=flat-square&logo=scipy&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=7aa2f7" />
+[![GitHub](https://img.shields.io/badge/GitHub-navidml-181717?style=flat-square&logo=github)](https://github.com/navidml)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navid%20Bordbar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-bordbar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-navidbordbar-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/navidbordbar)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navid.b1515@gmail.com)
 
 </div>
 
-<br>
+---
 
-## Signal
+## About Me
+
+I'm a **Data Scientist and AI Engineer** with a Python-first background.
+
+My learning and technical work cover the full path from **data analysis and SQL** to **machine learning, deep learning, computer vision, natural language processing, and AI-powered automation**.
+
+I enjoy understanding both sides of an AI system: the **data and modeling layer** as well as the **engineering layer** needed to turn an idea into something practical and usable.
+
+Currently, I'm strengthening my knowledge in **Computer Vision and NLP / language models**, while also expanding my software engineering skills with **Django** and workflow automation with **n8n**.
+
+---
+
+## Core Areas
+
+| Area | Technologies & Topics |
+| --- | --- |
+| **AI & Machine Learning** | Machine Learning, Deep Learning, Neural Networks, Model Evaluation |
+| **Computer Vision** | OpenCV, Image Processing, Deep Learning for Vision |
+| **NLP & Language Models** | NLP, Transformers, Language Model Foundations, Hugging Face |
+| **Data Science & Analytics** | NumPy, Pandas, Data Analysis, EDA, Visualization |
+| **Data & BI** | SQL, Excel, Power BI |
+| **Backend Development** | Python, Django |
+| **Automation** | n8n, AI Workflows, Process Automation |
+| **Developer Tools** | Git, GitHub, Linux, Jupyter |
+
+---
+
+## Tech Stack
+
+### Programming & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,linux&theme=dark" alt="Programming and backend tools" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and machine learning tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=flat-square" alt="NLP" />
+</p>
+
+### Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+### Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=flat-square" alt="AI Automation" />
+</p>
+
+---
+
+## Current Focus
+
+- Advancing my **Computer Vision** knowledge and practical skills.
+- Deepening my understanding of **NLP, Transformers, and language models**.
+- Learning **Django** for Python backend development.
+- Building practical **automation workflows with n8n**.
+- Continuing to strengthen the connection between **Data Science and AI Engineering**.
+
+---
+
+## How I Think About AI
+
+> Good AI is not only about training a model. It is about understanding the data, choosing the right approach, evaluating it correctly, and engineering a reliable solution around it.
+
+I care about writing clear code, learning the fundamentals deeply, and building systems that solve real problems rather than adding complexity for its own sake.
+
+---
+
+## What's Next
+
+I'm currently preparing and organizing my project portfolio. Project repositories will be added progressively as they are ready to be presented professionally.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=navidml&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=a78bfa&text_color=93a9cc&include_all_commits=true&count_private=true" alt="" />
-<img height="160" src="https://streak-stats.demolab.com/?user=navidml&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=a78bfa&currStreakLabel=7aa2f7&sideLabels=93a9cc&dates=4b5b7a" alt="" />
+**Data Science · Artificial Intelligence · Python · Automation**
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=navidml&theme=tokyo-night&bg_color=0d1117&color=93a9cc&line=7aa2f7&point=5eead4&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="" />
-
-<img src="https://raw.githubusercontent.com/navidml/navidml/output/snake.svg" width="98%" alt="" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7aa2f7,100:0d1117&height=110&section=footer" width="100%" alt="" />
 </div>
