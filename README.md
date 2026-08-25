@@ -6,6 +6,7 @@
   <a href="mailto:navid.b1515@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-5EEAD4?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Email Navid" /></a>
   <a href="https://www.linkedin.com/in/navid-bordbar"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Navid on LinkedIn" /></a>
   <a href="https://www.kaggle.com/navidbordbar"><img src="https://img.shields.io/badge/Kaggle-Follow-A78BFA?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Navid on Kaggle" /></a>
+  <a href="https://huggingface.co/navidbordbar"><img src="https://img.shields.io/badge/Hugging%20Face-Follow-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111827" alt="Navid on Hugging Face" /></a>
 </p>
 
 <p align="center">
@@ -70,6 +71,6 @@ I value strong fundamentals, readable code, honest evaluation, and solutions tha
 
 ### Open to learning, collaboration, and meaningful AI conversations.
 
-**[Email](mailto:navid.b1515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/navid-bordbar) · [Kaggle](https://www.kaggle.com/navidbordbar)**
+**[Email](mailto:navid.b1515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/navid-bordbar) · [Kaggle](https://www.kaggle.com/navidbordbar) · [Hugging Face](https://huggingface.co/navidbordbar)**
 
 </div>
